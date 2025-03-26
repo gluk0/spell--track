@@ -1,0 +1,1 @@
+ALTER TABLE events ADD COLUMN event_type VARCHAR(10) NOT NULL DEFAULT 'start'; 
